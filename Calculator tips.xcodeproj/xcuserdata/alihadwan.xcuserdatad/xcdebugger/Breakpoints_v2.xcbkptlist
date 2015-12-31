@@ -1,0 +1,383 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator tips/ViewController.swift"
+            timestampString = "471686084.49212"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "10"
+            endingLineNumber = "10"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator tips/AppDelegate.swift"
+            timestampString = "471686902.902799"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "12"
+            endingLineNumber = "12"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.AppDelegate.__deallocating_deinit"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/AppDelegate.swift"
+                  timestampString = "472633368.048348"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.AppDelegate.init (Calculator_tips.AppDelegate.Type)() -&gt; Calculator_tips.AppDelegate"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/AppDelegate.swift"
+                  timestampString = "472633368.048599"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "main"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/AppDelegate.swift"
+                  timestampString = "472633368.048768"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "12"
+                  endingLineNumber = "12"
+                  offsetFromSymbolStart = "22">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator tips/ViewController.swift"
+            timestampString = "472970849.11141"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.billField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "472544858.773545"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "18">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.billField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "472544858.774204"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "24">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.billField.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "472544858.774456"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "29">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.init (Calculator_tips.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Calculator_tips.ViewController"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "472544858.774724"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "80">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.init (Calculator_tips.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Calculator_tips.ViewController&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "472544858.776019"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "15"
+                  endingLineNumber = "15"
+                  offsetFromSymbolStart = "37">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator tips/AppDelegate.swift"
+            timestampString = "472619353.143127"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "15"
+            endingLineNumber = "15"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator tips/AppDelegate.swift"
+            timestampString = "472630038.733292"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "14"
+            endingLineNumber = "14"
+            landmarkName = "AppDelegate"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.AppDelegate.window.setter : Swift.Optional&lt;__ObjC.UIWindow&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/AppDelegate.swift"
+                  timestampString = "473061851.597403"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "26">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.AppDelegate.window.materializeForSet : Swift.Optional&lt;__ObjC.UIWindow&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/AppDelegate.swift"
+                  timestampString = "473061851.597556"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "28">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.AppDelegate.init (Calculator_tips.AppDelegate.Type)() -&gt; Calculator_tips.AppDelegate"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/AppDelegate.swift"
+                  timestampString = "473061851.597689"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "14"
+                  endingLineNumber = "14"
+                  offsetFromSymbolStart = "29">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator tips/ViewController.swift"
+            timestampString = "473154890.293153"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.billField.getter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "473154890.306278"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.billField.setter : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "473154890.306486"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.billField.materializeForSet : weak Swift.ImplicitlyUnwrappedOptional&lt;__ObjC.UITextField&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "473154890.306701"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "0"
+                  endingLineNumber = "0"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.init (Calculator_tips.ViewController.Type)(nibName : Swift.Optional&lt;Swift.String&gt;, bundle : Swift.Optional&lt;__ObjC.NSBundle&gt;) -&gt; Calculator_tips.ViewController"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "473154890.30681"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "168">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Calculator_tips.ViewController.init (Calculator_tips.ViewController.Type)(coder : __ObjC.NSCoder) -&gt; Swift.Optional&lt;Calculator_tips.ViewController&gt;"
+                  moduleName = "Calculator tips"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/alihadwan/Desktop/Calculator%20tips/Calculator%20tips/ViewController.swift"
+                  timestampString = "473154890.306907"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "18"
+                  endingLineNumber = "18"
+                  offsetFromSymbolStart = "93">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator tips/SettingsViewController.swift"
+            timestampString = "473181539.698004"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "18"
+            endingLineNumber = "18"
+            landmarkName = "tipSliderAction(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Calculator tips/ViewController.swift"
+            timestampString = "473249202.906989"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "61"
+            endingLineNumber = "61"
+            landmarkName = "peopleControl(_:)"
+            landmarkType = "5">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="9531" systemVersion="15C50" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" launchScreen="YES" useTraitCollections="YES" initialViewController="01J-lp-oVM">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="9529"/>
+    </dependencies>
+    <scenes>
+        <!--View Controller-->
+        <scene sceneID="EHf-IW-A2E">
+            <objects>
+                <viewController id="01J-lp-oVM" sceneMemberID="viewController">
+                    <layoutGuides>
+                        <viewControllerLayoutGuide type="top" id="Llm-lL-Icb"/>
+                        <viewControllerLayoutGuide type="bottom" id="xb3-aO-Qok"/>
+                    </layoutGuides>
+                    <view key="view" alpha="0.90000000000000002" contentMode="scaleToFill" id="Ze5-6b-2t3">
+                        <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+                        <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+                        <subviews>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="Calculator Tip" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="PF5-7q-Yv1">
+                                <rect key="frame" x="60" y="206" width="191" height="38"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="31"/>
+                                <color key="textColor" red="0.30993173637853449" green="0.25923500028098312" blue="0.63289262820512815" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="V2.0" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="3kA-lB-vkZ">
+                                <rect key="frame" x="243" y="252.5" width="36" height="21"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" red="0.72225560897435903" green="0.27015879274943944" blue="0.151176152078146" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                            </label>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="IIp-Z5-yOY">
+                                <rect key="frame" x="162" y="377" width="39" height="37"/>
+                            </pageControl>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" misplaced="YES" text="  Copyright © 2015 Ali Hadwan. All rights reserved." textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="0t9-hk-Et3">
+                                <rect key="frame" x="0.0" y="626" width="388" height="21"/>
+                                <constraints>
+                                    <constraint firstAttribute="width" constant="388" id="GNZ-W6-QZs"/>
+                                </constraints>
+                                <fontDescription key="fontDescription" type="system" pointSize="16"/>
+                                <color key="textColor" red="0.0" green="0.0" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                                <nil key="highlightedColor"/>
+                                <size key="shadowOffset" width="0.0" height="0.0"/>
+                            </label>
+                        </subviews>
+                        <color key="backgroundColor" white="0.66666666666666663" alpha="1" colorSpace="calibratedWhite"/>
+                        <constraints>
+                            <constraint firstItem="PF5-7q-Yv1" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="-33" id="0YS-5X-Cl1"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="6.5" id="4vj-qX-G2x"/>
+                            <constraint firstItem="PF5-7q-Yv1" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="-108" id="6R4-hI-Jhz"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="303" id="CIi-Ke-ts5"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="6.5" id="GCQ-z7-rDS"/>
+                            <constraint firstItem="IIp-Z5-yOY" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="62" id="Hh2-dl-VMu"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="6.5" id="HqU-rQ-Bn2"/>
+                            <constraint firstItem="PF5-7q-Yv1" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="-108.5" id="Hsd-af-BR0"/>
+                            <constraint firstItem="PF5-7q-Yv1" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="-33" id="I6Y-e2-dGJ"/>
+                            <constraint firstItem="3kA-lB-vkZ" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="-71" id="I7l-Lb-DFM"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="303" id="IT5-C0-rDi"/>
+                            <constraint firstItem="3kA-lB-vkZ" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="81" id="L6X-IT-yEB"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="6.5" id="O0m-fM-Ket"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="6.5" id="Pih-uO-F69"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="303" id="SXI-W4-Ier"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="6.5" id="Ysu-Ho-AAL"/>
+                            <constraint firstItem="IIp-Z5-yOY" firstAttribute="centerX" secondItem="Ze5-6b-2t3" secondAttribute="centerX" constant="-6" id="cXz-cg-R1d"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="303" id="czn-Am-IqU"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="303" id="fdk-XK-p97"/>
+                            <constraint firstItem="0t9-hk-Et3" firstAttribute="centerY" secondItem="Ze5-6b-2t3" secondAttribute="centerY" constant="303" id="zGi-sS-86p"/>
+                        </constraints>
+                    </view>
+                    <simulatedScreenMetrics key="simulatedDestinationMetrics" type="retina47"/>
+                </viewController>
+                <placeholder placeholderIdentifier="IBFirstResponder" id="iYj-Kq-Ea1" userLabel="First Responder" sceneMemberID="firstResponder"/>
+            </objects>
+            <point key="canvasLocation" x="52.5" y="374.5"/>
+        </scene>
+    </scenes>
+</document>
